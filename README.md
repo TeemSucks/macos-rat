@@ -26,3 +26,6 @@ the rat is located in /users/shared/.rat if your wondering btw
 
 ## credits
 teemsploit (discord) - helped me make it harder for anticheats to detect
+
+### disclamer
+please note that this is only for educational purpuses only and should not be used without the other persons concent
