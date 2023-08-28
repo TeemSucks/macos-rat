@@ -23,3 +23,6 @@ this will start the server
 next run the installer on the target's computer and it will install and run the rat (restarting the computer breaks it..)
 
 the rat is located in /users/shared/.rat if your wondering btw
+
+## credits
+teemsploit (discord) - helped me make it harder for anticheats to detect
