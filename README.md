@@ -1,31 +1,24 @@
-# rat
-simple rat made with javascript (its really bad)
+# Remote Access Trojan (RAT) for Mac
 
-if you want to use it get the victim to download node and download pm2 (pm2 is not required but makes the app not need to be open)
+This RAT is designed to allow remote access and control of Mac operating systems. It is intended for educational use only.
 
-## install
-first download the files
-```sh
-git clone https://github.com/TeemSucks/rat.git
-cd rat
-```
-next download a compiled installer or compile it your self
+## Features
 
-download the newest version here: https://github.com/TeemSucks/rat/releases
+- Allows remote access to target machine
+- Supports basic shell commands
 
-## run
-get the latest version of node.js and run this command
-```sh
-npm start
-```
-this will start the server
+## Installation
 
-next run the installer on the target's computer and it will install and run the rat (restarting the computer breaks it..)
+TBA (To be added)
 
-the rat is located in /users/shared/.rat if your wondering btw
+## Usage
 
-## credits
-teemsploit (discord) - helped me make it harder for anticheats to detect
+TBA (To be added)
 
-### disclamer
-please note that this is only for educational purpuses only and should not be used without the other persons concent
+## Disclaimer
+
+This code is provided for educational purposes only. Using this code for illegal or unethical purposes is strictly prohibited. The author and the organization that published this code are not responsible for any damage caused by the use of this code.
+
+## Contact
+
+TBA (To be added)
